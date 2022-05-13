@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pregunta1{
+public class pregunta01ODCQ{
     
   public static void main(String args[]){
     Scanner in = new Scanner (System.in);

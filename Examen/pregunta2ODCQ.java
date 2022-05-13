@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * pregunta1
  */
-public class pregunta2 {
+public class pregunta2ODCQ {
 
     static Scanner lt=new Scanner(System.in);
 
