@@ -2,7 +2,7 @@ package pe.edu.upeu.arrays;
 
 import java.util.Scanner;
 
-import pe.edu.upeu.modelo.Persona;
+
 import pe.edu.upeu.modelo.persona;
 
 class arraysejemplos{
