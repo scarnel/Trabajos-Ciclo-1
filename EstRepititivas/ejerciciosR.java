@@ -53,13 +53,13 @@ public class ejerciciosR {
 
     }
     public static void main(String[] args) {
-        /*System.out.println("while");
+        System.out.println("while");
         imprimirN1_10While();
-        System.out.println("do while");
+        /*System.out.println("do while");
         imprimirN1_10dowhile();
         System.out.println("for");
         imprimirN1_10forWhile();*/
-        inprimirNombreVertical();
-        inprimirNombreRevesVertical();
+        // inprimirNombreVertical();
+        // inprimirNombreRevesVertical();
     }
 }
